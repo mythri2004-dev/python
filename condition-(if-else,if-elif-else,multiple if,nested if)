@@ -1,0 +1,304 @@
+#if-else conditions bby using comparision operators
+'''a=3
+b=6
+if a<b:
+    print("true")
+else:
+    print("false")'''
+
+
+'''a=3
+b=6
+if a>b:
+    print("true")
+else:
+    print("false")'''
+
+
+
+'''a=9
+b=12
+if a!=b:
+    print("not equal")
+else:
+    print("true")''' 
+
+
+#if-else condition by using logical operator
+'''a=5
+b=10
+if a<b and b>a:
+     print("less")
+else:
+     print("true")'''
+
+
+'''a=5
+b=10
+if a<b or b<a:
+     print("less")
+else:
+     print("true")'''
+
+
+'''a=5
+b=10
+if a!=b:
+     print("less")
+else:
+     print("true")'''
+
+
+#if-else condition by using identify operators
+
+'''a=6
+if type(a) is int:
+    print("it is int")
+    
+else:
+    print("false")'''
+
+
+'''a=9
+if type(a) is not int:
+    print("it is int")
+    
+else:
+    print("false")'''
+
+
+#if-else conditions by using membership operators
+
+'''a=1,2,3,4,5,6
+if 9 in a:
+    print("true")
+else:
+    print("false")''' 
+
+
+'''a=1,2,3,4,5,6
+if 7 not in a:
+    print("true")
+else:
+    print("false")''' 
+
+#if-elif-else conditions by using comparision operator
+'''a=8
+b=10
+if a<b:
+    print("less")
+elif b>a:
+    print("greater")
+else:
+    print("true")'''
+
+
+'''a=8
+b=10
+if a==b:
+    print("less")
+elif b>a:
+    print("greater")
+else:
+    print("true")''' 
+
+
+'''a=8
+b=10
+if a==b:
+    print("less")
+elif b<a:
+    print("greater") 
+else:
+    print("true")'''  
+
+    
+'''a=12
+b=19
+if a==b:
+    print("less")
+elif b<a:
+    print("greater")
+elif a>b:
+     print("true")
+else:
+    print("false")'''
+
+#if-elif-else condition by using logical operator
+'''a=10
+b=9
+if a<b and b>a:
+    print(true)
+elif a==b:
+     print("false")
+else:
+    print("less")''' 
+
+
+
+
+
+
+#if-elif-else condition by using identify operator
+
+'''a=3
+if type(a) is int:
+    print("true")
+elif type(a) is float:
+     print("false")
+else:
+    print("greater")'''
+
+
+
+'''a=3.0
+if type(a) is int:
+    print("true")
+elif type(a) is float:
+     print("false")
+else:
+    print("greater")'''
+
+  
+#if-elif-else conditions by using membership operator 
+     
+'''a=1,2,3,4,5,6,7,8
+if 8 in a:
+    print("true")
+elif 9 in a:
+    print("false")
+else:
+    print("less")'''  
+
+
+'''a=1,2,3,4,5,6,7,8
+if 8  not in a:
+    print("true")
+elif 9 not in a:
+    print("false")
+else:
+    print("less")'''
+
+
+
+#multiple-if condition by using comparision operators 
+'''a=3
+b=9
+if a<b:
+    print("true")
+if a>b:
+    print("true")
+if a!=b:
+    print("true")'''
+
+
+
+
+#nested-if
+'''a=4
+b=6
+if a<b:
+    print("less")
+    if b>a:
+        print("greater")'''
+
+
+'''a=4
+b=6
+if a>b:
+    print("less")
+    if b>a:
+        print("greater")'''
+
+
+
+'''a=7
+b=12
+if a<b:
+    print("less")
+    if b==a:
+        print("greater")'''
+
+
+'''a=12
+b=13
+if a<b:
+    print("less")
+    if b==a:
+        print("greater")
+    else:
+            print("true")'''
+
+'''a=15
+b=17
+if a>b:
+    print("less")
+    if b>a:
+        print("greater")
+else:
+    print("true")'''
+
+
+
+'''a=9
+b=11
+if a<b:
+    print("less")
+    if b>a:
+        print("greater")
+        if b>a:
+            print("greater")
+        else:
+            print("true")
+else:
+    print("false")'''
+
+
+'''a=4
+b=6
+if a<b:
+    print("less")
+    if b==a:
+        print("greater")
+    elif a!=b:
+        print("not equal")'''
+
+'''a=4
+b=6
+if a<b:
+    print("less")
+    if b==a:
+        print("greater")
+    elif a>=b:
+        print("not equal")
+    else:
+        print("equal")'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
